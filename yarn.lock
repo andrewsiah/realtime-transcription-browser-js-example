@@ -245,6 +245,7 @@ __metadata:
   dependencies:
     axios: "npm:^1.6.0"
     cors: "npm:^2.8.5"
+    dotenv: "npm:^16.3.1"
     eslint: "npm:^8.52.0"
     express: "npm:^4.18.2"
     prettier: "npm:^3.0.3"
@@ -600,6 +601,13 @@ __metadata:
   dependencies:
     esutils: "npm:^2.0.2"
   checksum: b4b28f1df5c563f7d876e7461254a4597b8cabe915abe94d7c5d1633fed263fcf9a85e8d3836591fc2d040108e822b0d32758e5ec1fe31c590dc7e08086e3e48
+  languageName: node
+  linkType: hard
+
+"dotenv@npm:^16.3.1":
+  version: 16.3.1
+  resolution: "dotenv@npm:16.3.1"
+  checksum: 2104a65b5ae47c23208dcddf1ec7d5942468c7ac46be616d47472f62c0142ef7d8839eff52ec66828607147dd11c1055723e7d9127feea9106bf33bf5c8caccc
   languageName: node
   linkType: hard
 
